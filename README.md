@@ -20,7 +20,12 @@ We recommend using only mods which is safe to use on server. Since it is designe
 Mariposa works as pure forge, which allows you to add mods and resource packs freely, and does not include any forge modifications.
 Due to modpack usage copyright difference between mods, we decided to not include any mods. You must add mods yourself included on the list below.
 
+## Recommended Forge Version ##
+- Minecraft Version: 1.8.9
+- Forge Version: 11.15.1.2318
+
 ## List of mods ##
+* [Forge 1.8.9 (Required)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
 * [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * [Keystrokes Mod](https://sk1er.club/mods/keystrokesmod)
 * [Patcher](https://sk1er.club/mods/patcher)
@@ -28,3 +33,4 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 * [5zig Reborn](https://5zigreborn.eu/)
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in Discussion)
 * [OptiFine](https://www.optifine.net/home)
+* [FoamFix Anarchy](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
