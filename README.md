@@ -29,7 +29,6 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 * [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
 * [Keystrokes Mod](https://sk1er.club/mods/keystrokesmod)
 * [Patcher](https://sk1er.club/mods/patcher)
-* [Compact Chat](https://sk1er.club/mods/compactchat)
 * [5zig Reborn](https://5zigreborn.eu/)
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in Discussion)
 * [OptiFine](https://www.optifine.net/home)
