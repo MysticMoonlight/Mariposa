@@ -32,4 +32,4 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 * [5zig Reborn](https://5zigreborn.eu/)
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in Discussion)
 * [OptiFine](https://www.optifine.net/home)
-* [FoamFix Anarchy](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
+* [FoamFix Lawful](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
