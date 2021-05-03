@@ -20,6 +20,19 @@ We recommend using only mods which is safe to use on server. Since it is designe
 Mariposa works as pure forge, which allows you to add mods and resource packs freely, and does not include any forge modifications.
 Due to modpack usage copyright difference between mods, we decided to not include any mods. You must add mods yourself included on the list below.
 
+## Version History ##
+### Version 2.0 ###
+- Added Replay Mod to 'List of mods'
+- [Planned] New brand logo will arrive on May 5, 2021 Version 2.1 update
+- Added version history on README.md(Changelog will be moved if they are long enough to make new file)
+
+### Version 1.1 ###
+- Added FoamFox Lawful 1.8.9 to Modpack
+- Added Recommended Forge Version
+
+### Version 1.0 ###
+- Initial Release
+
 ## Recommended Forge Version ##
 - Minecraft Version: 1.8.9
 - Forge Version: 11.15.1.2318
@@ -33,3 +46,4 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in Discussion)
 * [OptiFine](https://www.optifine.net/home)
 * [FoamFix Lawful](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
+* [Replay Mod](https://www.replaymod.com/)
