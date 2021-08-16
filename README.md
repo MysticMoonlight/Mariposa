@@ -14,17 +14,20 @@ Mariposa(Means Butterfly on Spanish) was born as new Lunar Client/Badlion Client
 Mariposa focuses on less-bloated and simple modpack which anyone can add their own mods and resource packs without limitation.
 
 ## Caution when using this modpack ##
-We recommend using only mods which is safe to use on server. Since it is designed for pvp, it is not recommended to add mods which breaks the fair play of pvp. Remember that we have no responsibility for any damages and bans from other server.
+We recommend using only mods which is safe to use on server. Since it is designed for pvp, it is not recommended to add mods which breaks the fair play of pvp. Mystic Moonlight have no responsibility for any damages and bans from other server.
 
 ## How does it works? ##
 Mariposa works as pure forge, which allows you to add mods and resource packs freely, and does not include any forge modifications.
-Due to modpack usage copyright difference between mods, we decided to not include any mods. You must add mods yourself included on the list below.
+Due to modpack usage copyright difference between mods, we decided not to include any mods. You must install forge and put jar file into mods folder manually.
 
 ## Version History ##
+### Version 4.1 ###
+- Added [Block Overlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+
 ### Version 4 ###
-* Added [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) (Don't worry, this mod is client side and API mod so no need to worry about getting banned)
-* Added [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
-* Added [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+- Added [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) (Don't worry, this mod is client side and API mod so no need to worry about getting banned)
+- Added [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+- Added [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
 
 ### Version 3.0 ###
 - **Removed the Patcher Mod** due to conflict issue and 5zig can replace most of functionality
@@ -56,6 +59,7 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 * [5zig Reborn](https://5zigreborn.eu/)
 * [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in the issue tracker)
+* [Block Overlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
 * [FoamFix Lawful](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
 * [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
