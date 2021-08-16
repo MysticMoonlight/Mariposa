@@ -21,6 +21,11 @@ Mariposa works as pure forge, which allows you to add mods and resource packs fr
 Due to modpack usage copyright difference between mods, we decided to not include any mods. You must add mods yourself included on the list below.
 
 ## Version History ##
+### Version 4 ###
+* Added [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore) (Don't worry, this mod is client side and API mod so no need to worry about getting banned)
+* Added [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
+* Added [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+
 ### Version 3.0 ###
 - **Removed the Patcher Mod** due to conflict issue and 5zig can replace most of functionality
 - Added back the [Vanilla Enhancements](https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements) and [Old Animations Mod](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod)
@@ -48,16 +53,18 @@ Due to modpack usage copyright difference between mods, we decided to not includ
 - Forge Version: 11.15.1.2318
 
 ## List of mods ##
-* [Forge 1.8.9 (Required)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
-* [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
-* [Keystrokes Mod](https://sk1er.club/mods/keystrokesmod)
 * [5zig Reborn](https://5zigreborn.eu/)
+* [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)
 * [Better Sprinting](https://www.curseforge.com/minecraft/mc-mods/better-sprinting) (Warning: Please disable ToggleSneak and FlyBoost, it might cause you banned depending on server. If you find any alternative mod related to fair Sprinting mod please let us know in the issue tracker)
-* [OptiFine](https://www.optifine.net/home)
+* [Blur](https://www.curseforge.com/minecraft/mc-mods/blur)
 * [FoamFix Lawful](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
-* [Replay Mod](https://www.replaymod.com/)
-* [Vanilla Enhancements](https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements)
-* [Old Animations Mod](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod)
-* [PerspectiveMod v4](https://github.com/DJtheRedstoner/PerspectiveModv4/)
-* [NoCloseMyChat](https://hypixel.net/threads/forge-modification-noclosemychat-for-mc-1-8.1260752/)
 * [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
+* [Keystrokes Mod](https://sk1er.club/mods/keystrokesmod)
+* [NoCloseMyChat](https://hypixel.net/threads/forge-modification-noclosemychat-for-mc-1-8.1260752/)
+* [Old Animations Mod](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod)
+* [OptiFine](https://www.optifine.net/home)
+* [PerspectiveMod v4](https://github.com/DJtheRedstoner/PerspectiveModv4/)
+* [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+* [Replay Mod](https://www.replaymod.com/)
+* [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
+* [Vanilla Enhancements](https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements)
