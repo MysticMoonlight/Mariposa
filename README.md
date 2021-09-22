@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img width="70%" src="https://raw.githubusercontent.com/MysticMoonlight/Mariposa/main/logo.png" align="center" alt="Mariposa-IMG" />
+ <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Mariposa/main/logo.png" align="center" alt="Mariposa-IMG" />
  <h2 align="center">Solaire</h2>
   <p align="center">
     Solaire is the alternative Minecraft: Java Edition PvP modpack, focused on pvp with less bloats. 
