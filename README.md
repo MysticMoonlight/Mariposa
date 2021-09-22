@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Mariposa/main/logo.png" align="center" alt="Mariposa-IMG" />
+ <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Solaire/main/logo.png" align="center" alt="Solaire-IMG" />
  <h2 align="center">Solaire</h2>
   <p align="center">
     Solaire is the alternative Minecraft: Java Edition PvP modpack, focused on pvp with less bloats. 
@@ -11,13 +11,13 @@
 ## About this modpack ##
 Solaire was born as new Lunar Client/Badlion Client alternative due to ignorant developers who does not listen to community and includes many bloats due to cosmetic feature and unnecessary mods included on their client. Additionally, Mineplex added the Lunar Client and Badlion Client as unapproved mod, so this modpack is the best alternative for people who plays Mineplex and such.
 
-Mariposa focuses on less-bloated and simple modpack which anyone can add their own mods and resource packs without limitation.
+Solaire focuses on less-bloated and simple modpack which anyone can add their own mods and resource packs without limitation.
 
 ## Caution when using this modpack ##
 We recommend using only mods which is safe to use on server. Since it is designed for pvp, it is not recommended to add mods which breaks the fair play of pvp. Mystic Moonlight have no responsibility for any bans from other server.
 
 ## How does it works? ##
-Mariposa works as pure forge, which allows you to add mods and resource packs freely, and does not include any forge modifications.
+Solaire works as pure forge, which allows you to add mods and resource packs freely, and does not include any forge modifications.
 Due to modpack usage copyright difference between mods, we decided not to include any mods. You must install forge and put jar file into mods folder manually.
 
 ## Version History ##
