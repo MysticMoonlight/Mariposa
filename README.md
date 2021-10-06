@@ -21,6 +21,13 @@ Solaire works as pure forge, which allows you to add mods and resource packs fre
 Due to modpack usage copyright difference between mods, we decided not to include any mods. You must install forge and put jar file into mods folder manually.
 
 ## Version History ##
+### Version 5.0.1 ###
+**WARNING: PerspectiveMod is now disallowed mod on most servers including Hypixel. We advise you to remove Perspective Mod immediately. This update address the issue to remove the Perspective Mod from mod list.**
+
+**We are not responsible for any bans for keep using the Perspective Mod and ignoring this warning.'**
+
+- **Removed the PerspectiveMod** as now it is disallowed mod 
+
 ### Version 5 ###
 Changed modpack name to Solaire
 
@@ -35,7 +42,7 @@ Changed modpack name to Solaire
 ### Version 3.0 ###
 - **Removed the Patcher Mod** due to conflict issue and 5zig can replace most of functionality
 - Added back the [Vanilla Enhancements](https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements) and [Old Animations Mod](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod)
-- Added [PerspectiveMod v4](https://github.com/DJtheRedstoner/PerspectiveModv4/)
+- Added PerspectiveMod v4
 - Added [NoCloseMyChat](https://hypixel.net/threads/forge-modification-noclosemychat-for-mc-1-8.1260752/)
 - Added [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
 
@@ -70,7 +77,6 @@ Changed modpack name to Solaire
 * [NoCloseMyChat](https://hypixel.net/threads/forge-modification-noclosemychat-for-mc-1-8.1260752/)
 * [Old Animations Mod](https://www.curseforge.com/minecraft/mc-mods/old-animations-mod)
 * [OptiFine](https://www.optifine.net/home)
-* [PerspectiveMod v4](https://github.com/DJtheRedstoner/PerspectiveModv4/)
 * [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
 * [Replay Mod](https://www.replaymod.com/)
 * [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)
