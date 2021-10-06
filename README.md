@@ -24,7 +24,7 @@ Due to modpack usage copyright difference between mods, we decided not to includ
 ### Version 5.0.1 ###
 **WARNING: PerspectiveMod is now disallowed mod on most servers including Hypixel. We advise you to remove Perspective Mod immediately. This update address the issue to remove the Perspective Mod from mod list.**
 
-**We are not responsible for any bans for keep using the Perspective Mod and ignoring this warning.'**
+**We are not responsible for any bans for keep using the Perspective Mod and ignoring this warning.**
 
 - **Removed the PerspectiveMod** as now it is disallowed mod 
 
