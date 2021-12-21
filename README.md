@@ -1,12 +1,9 @@
+# End of Support for Solaire modpack
+Hey all, we decided to end support for this modpack due to ongoing exploits.
 
+This exploit is called Log4Shell, the new exploit which affects Minecraft 1.18 and below which causes arbitrary code execution. [Here is more information about this exploit.](https://en.wikipedia.org/wiki/Log4Shell)
 
-<p align="center">
- <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Solaire/main/logo.png" align="center" alt="Solaire-IMG" />
- <h2 align="center">Solaire</h2>
-  <p align="center">
-    Solaire is the alternative Minecraft: Java Edition PvP modpack, focused on pvp with less bloats. 
-  </p>
-</p>
+We do not recommend using this modpack from now on, instead use [EndlessMod Universal](https://github.com/MysticMoonlight/EndlessMod), since that modpack is safe to use and regularly updated.
 
 ## About this modpack ##
 Solaire was born as new Lunar Client/Badlion Client alternative due to ignorant developers who does not listen to community and includes many bloats due to cosmetic feature and unnecessary mods included on their client. Additionally, Mineplex added the Lunar Client and Badlion Client as unapproved mod, so this modpack is the best alternative for people who plays Mineplex and such.
